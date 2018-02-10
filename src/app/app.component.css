@@ -1,0 +1,91 @@
+.#shoes {
+  color: navajowhite;
+
+}
+.mat-button {
+  color: white;
+}
+.aa {
+  margin: 0px;
+  float: right;
+}
+.jeongyeon {
+  margin-top: 63px;
+  float: left;
+}
+.nayeon {
+  margin-top: 63px;
+  float: left;
+}
+.momo {
+  margin-top: 63px;
+  float: left;
+}
+.sana {
+  margin-top: 63px;
+  float: left;
+}
+.mina {
+  margin-top: 63px;
+  float: left;
+}
+.jihyo {
+  margin-top: 63px;
+  float: left;
+}
+.dahyun {
+  margin-top: 63px;
+  float: left;
+}
+.chaeyoung {
+  margin-top: 63px;
+  float: left;
+}
+.tzuyu {
+  margin-top: 63px;
+  float: left;
+}
+.all {
+  margin-top: 0px;
+  float: left;
+}
+.aa .aaaa {
+  margin: 0 10px 28px 10px;
+
+}
+.aa .aaaa .x {
+  margin: 0 0 7px 0;
+  color: lawngreen;
+  padding: 10px;
+}
+.aa .aaaa .y {
+  margin-left: 0px;
+  color: lawngreen;
+  padding: 10px;
+}
+.example-h2 {
+  margin: 10px;
+}
+
+.example-section {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  height: 900px;
+  margin-left: 1000px;
+  width: 400px;
+  padding-top: 13px;
+}
+.example-section .first {
+  color: darkorange;
+  font-style: oblique;
+  font-size: 30px;
+}
+.example-section .third {
+  color: chartreuse;
+  font-style: italic;
+  font-size: 20px;
+}
+.example-margin {
+  margin: 10px;
+}

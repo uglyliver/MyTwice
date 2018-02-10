@@ -1,1 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~@angular/material/prebuilt-themes/pink-bluegrey.css";
+
+.example-icon {
+  padding: 0 14px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+.mat-list-icon {
+  color: rgba(0, 0, 0, 0.54);
+}
+.#shoes {
+  color: navajowhite;
+
+}
+.mat-button {
+  color: white;
+}
+.a {
+  overflow: hidden;
+  background-size:cover;
+}
+
