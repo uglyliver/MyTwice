@@ -4,7 +4,7 @@ import { trigger,style,transition,animate,keyframes,query,stagger,state } from '
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  styleUrls: ['./app.component.css'],
   animations: [
 
     trigger('twi', [
